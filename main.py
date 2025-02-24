@@ -160,7 +160,6 @@ elif u==1:
                     #__main__
                     
                     print('This software is subjected to copyright')
-                    print("KENDRIYA VIDYALAYA ONGC SRIKONA COMPUTER SCIENCE OFFICIAL")
                     def main():
 
                         print("1.Add")
